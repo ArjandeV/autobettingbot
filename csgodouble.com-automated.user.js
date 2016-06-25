@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name            csgodouble.com - auto betting bot
-// @description     An userscript that automates csgodouble.com betting using martingale system.
-// @namespace       csgodouble bot by kjuubiiz
+// @name            csgodouble.com - auto betting bot - legit
+// @description     An userscript that automates csgodouble.com betting using martingale system. I 100% guarantee this doesnt send money, if so hit me up, you can see I'm a legit developer
+// @namespace       csgodouble bot by ArjandeV (forked from kjuubiiz)
 // @version         1.53
-// @author          Kjuubiiz
+// @author          ArjandeV (forked from and remove the malicious shit by Kjuubiiz)
 // @match           http://www.csgodouble.com/
 // @match           http://www.csgodouble.com/index.php
 // @match           http://csgodouble.com/
